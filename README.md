@@ -7,5 +7,7 @@ Site de condição climática para matéria de desenvolvimento web na Faculdade!
 
 segue o video:
 
-https://github.com/user-attachments/assets/1c701d06-914f-47e5-b3a0-6d800ed4b028
+https://github.com/user-attachments/assets/7620006b-c889-4071-8efd-6a955c8c6a0a
+
+
 
